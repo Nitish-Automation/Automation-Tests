@@ -1,4 +1,4 @@
 Automation-Tests
 ================
 
-Automation test scripts in Selenium-Jav
+Automation test scripts in Selenium-Java
