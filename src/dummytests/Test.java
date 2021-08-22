@@ -1,3 +1,4 @@
+package dummytests;
 
 public class Test {
 
