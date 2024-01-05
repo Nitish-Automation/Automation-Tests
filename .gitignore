@@ -20,7 +20,5 @@
 *.rar
 
 */target/*
-*.classpath
-*.project
 *.settings
 /.metadata/
