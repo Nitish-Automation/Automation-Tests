@@ -19,6 +19,8 @@
 *.tar.gz
 *.rar
 
+*/target/*
 *.classpath
 *.project
 *.settings
+/.metadata/
